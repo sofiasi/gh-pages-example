@@ -9,6 +9,8 @@ title: Example
 - [Publications](publications)
 - [Team](team)
 
+Hello world
+
 # News
 
 - Some event
